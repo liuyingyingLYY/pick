@@ -1,0 +1,20 @@
+body, div, p{
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+.wrap{
+	background-color: #fff;
+    width: 50%;
+    padding-bottom: 50%;
+    margin: 0 auto;
+}
+.wrap>div{
+	width: 26%;
+    padding-bottom: 26%;
+    border: 1% solid #fff;         
+    background-color: #FEA500;
+    border-radius: 8%;
+    float: left;
+    margin: 1%;
+}
